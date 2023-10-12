@@ -1,28 +1,28 @@
 export const contactList = [
   {
     id: 1,
-    name: "Anubhav Sharma",
+    name: "Ashok",
     profilePic: "/profile/pp4.jpeg",
     lastText: "Hey Man",
     lastTextTime: "12:58 PM"
   },
   {
     id: 2,
-    name: "Mayank",
+    name: "revan",
     profilePic: "/profile/pp1.png",
     lastText: `what going on bro`,
     lastTextTime: "12:45 PM"
   },
   {
     id: 3,
-    name: "Anjali",
+    name: "Dharsan",
     profilePic: "/profile/pp2.png",
     lastText: "baba lets go out?",
     lastTextTime: "12:30 PM"
   },
   {
     id: 4,
-    name: "Kaushal",
+    name: "saravana",
     profilePic: "/profile/pp3.jpeg",
     lastText: "no broo",
     lastTextTime: "12:00 PM"
